@@ -1,7 +1,75 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="701df376-0275-4074-ad2b-0e6721b57cff" name="Default Changelist" comment="" />
+    <list default="true" id="701df376-0275-4074-ad2b-0e6721b57cff" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/d/0d040cf1d82064c5cff5a42623532d12d8616fd8" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/a/1a073976f22b94bcd0d3162e4b87cfd331cf3794" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/6/261ebe829c54e7dda4ebaae5e36984700bea5790" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/d/2dcd2aa3d55b7886850c687eaaf9e5fccb5012b8" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/6/46de09196eb2809bd7dba5a7e52aa70ea9717139" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/8/487490bb3976f57997fae5aa2aca74699bdf4212" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/9/69533eceab05283f4aec4f53b2762e0d52c4f3ac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/f/7f2deded62adcc441113836b3e8bbc4053221f7b" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/3/837042641ef138748260b3f93318f4bc9568cdb1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/7/872cd1c009634cb21929b54e95c4724404ccc3c0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/2/c2172b15b951bd446b48261d472113fef355887a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/4/c4c9279561c46155c89f3520795394a8500134c6" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/5/c54af31944b4f3d36eec9a71eecead1685fca4fd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/8/c8c6b417e57ce84607f630f29127ebb3847eb1bb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/c/ec564cd9dae1a0f8703f817b123bd9943f6b59fb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/f/ef5852bee30f6bcbb043ddffb5eabce5eac0e79d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/4/f44f69e12cf420810c726012f68e206a0b307726" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/c/fc129ca8b7b1dee83fff0a93c11b1280330b7e85" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gestaocontroleambiental.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/gestaocontroleambiental/app/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/gestaocontroleambiental/config/AuthorizationServerConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/gestaocontroleambiental/config/ResourceServerConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/gestaocontroleambiental/endpoint/AgendamentoController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/gestaocontroleambiental/endpoint/InsumoController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/gestaocontroleambiental/endpoint/TipoInsumoController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/gestaocontroleambiental/entity/Agendamento.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/gestaocontroleambiental/entity/ChangeStatus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/gestaocontroleambiental/entity/Insumo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/gestaocontroleambiental/entity/Ticket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/gestaocontroleambiental/entity/TipoInsumo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/gestaocontroleambiental/entity/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/gestaocontroleambiental/repository/AgendamentoRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/gestaocontroleambiental/repository/ChangeStatusRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/gestaocontroleambiental/repository/InsumoRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/gestaocontroleambiental/repository/TicketRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/gestaocontroleambiental/repository/TipoInsumoRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/gestaocontroleambiental/repository/UserRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/META-INF/gestaocontroleambiental.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/gestaocontroleambiental/app/Application.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/gestaocontroleambiental/config/AuthorizationServerConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/gestaocontroleambiental/config/ResourceServerConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/gestaocontroleambiental/endpoint/AgendamentoController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/gestaocontroleambiental/endpoint/InsumoController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/gestaocontroleambiental/endpoint/TipoInsumoController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/gestaocontroleambiental/entity/Agendamento.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/gestaocontroleambiental/entity/ChangeStatus.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/gestaocontroleambiental/entity/Insumo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/gestaocontroleambiental/entity/Ticket.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/gestaocontroleambiental/entity/TipoInsumo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/gestaocontroleambiental/entity/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/gestaocontroleambiental/repository/AgendamentoRepository.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/gestaocontroleambiental/repository/ChangeStatusRepository.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/gestaocontroleambiental/repository/InsumoRepository.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/gestaocontroleambiental/repository/TicketRepository.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/gestaocontroleambiental/repository/TipoInsumoRepository.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/gestaocontroleambiental/repository/UserRepository.class" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +89,13 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\desenv\workspace_estudos\gestaocontroleambiental\.idea" />
+      </set>
+    </option>
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -29,19 +104,20 @@
     </option>
   </component>
   <component name="ProjectId" id="1oIhuc6j4AZVtGwMlkMfuj8tqzR" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/com/gestaocontroleambiental/security" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.gestaocontroleambiental.security" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\desenv\workspace_estudos\gestaocontroleambiental" />
       <recent name="C:\desenv\workspace_estudos\gestaocontroleambiental\src\main\java\com\gestaocontroleambiental\security" />
       <recent name="C:\desenv\workspace_estudos\gestaocontroleambiental\src\main\java\com\gestaocontroleambiental\repository" />
       <recent name="C:\desenv\workspace_estudos\gestaocontroleambiental\src\main\java\com\gestaocontroleambiental\entity" />
       <recent name="C:\desenv\workspace_estudos\gestaocontroleambiental\src\main\java\com\gestaocontroleambiental\endpoint" />
-      <recent name="C:\desenv\workspace_estudos\gestaocontroleambiental\src\main\java\com\gestaocontroleambiental\app" />
     </key>
   </component>
   <component name="RunDashboard">

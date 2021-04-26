@@ -21,6 +21,13 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\desenv\workspace_estudos\gestaocontroleambiental\.idea" />
+      </set>
+    </option>
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -29,19 +36,23 @@
     </option>
   </component>
   <component name="ProjectId" id="1oIhuc6j4AZVtGwMlkMfuj8tqzR" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/com/gestaocontroleambiental/security" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.gestaocontroleambiental.security" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\desenv\workspace_estudos\gestaocontroleambiental" />
       <recent name="C:\desenv\workspace_estudos\gestaocontroleambiental\src\main\java\com\gestaocontroleambiental\security" />
       <recent name="C:\desenv\workspace_estudos\gestaocontroleambiental\src\main\java\com\gestaocontroleambiental\repository" />
       <recent name="C:\desenv\workspace_estudos\gestaocontroleambiental\src\main\java\com\gestaocontroleambiental\entity" />
       <recent name="C:\desenv\workspace_estudos\gestaocontroleambiental\src\main\java\com\gestaocontroleambiental\endpoint" />
-      <recent name="C:\desenv\workspace_estudos\gestaocontroleambiental\src\main\java\com\gestaocontroleambiental\app" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -94,7 +105,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>

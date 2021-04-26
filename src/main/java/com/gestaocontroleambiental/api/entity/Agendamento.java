@@ -13,6 +13,8 @@ public class Agendamento {
 	private String dataManutencao;
 	
 	private String descricao;
+
+	private String descricaoManutencao;
 	
 	@DBRef
 	private Insumo insumo;
@@ -59,4 +61,11 @@ public class Agendamento {
 		this.status = status;
 	}
 
+	public String getDescricaoManutencao() {
+		return descricaoManutencao;
+	}
+
+	public void setDescricaoManutencao(String descricaoManutencao) {
+		this.descricaoManutencao = descricaoManutencao;
+	}
 }

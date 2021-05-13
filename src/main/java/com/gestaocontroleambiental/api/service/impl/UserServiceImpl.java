@@ -18,15 +18,11 @@ public class UserServiceImpl implements UserService {
 	public User findUserByEmail(String email) {
 		return this.userRepository.findByEmail(email);
 	}
-	
+
 	public User createOrUpdate(User user) {
 		return this.userRepository.save(user);
 	}
-	
-	public User findById(String id) {
-		return this.userRepository.findOne(id);
-	}
-	
+
 	public void delete(User user) {
 		this.delete(user);
 	}

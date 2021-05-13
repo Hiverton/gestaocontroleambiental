@@ -37,12 +37,12 @@ public class AgendamentoController {
 
 	@GetMapping("{id}")
 	public ResponseEntity<Agendamento> getAgendamento(@PathVariable("id") String id) {
-		return ResponseEntity.status(HttpStatus.CREATED).body(repository.findOne(id));
+		return ResponseEntity.status(HttpStatus.CREATED).body(repository.findById(id).orElse(null));
 	}
 
 	@DeleteMapping("{id}")
 	public ResponseEntity<?> deletarAgendamento(@PathVariable("id") String id) {
-		repository.delete(id);
+		repository.deleteById(id);
 		return ResponseEntity.status(HttpStatus.NOT_FOUND).build();
 	}
 }
